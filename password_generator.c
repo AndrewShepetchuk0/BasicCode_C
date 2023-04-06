@@ -8,6 +8,7 @@
 int main(){
 
 	//length of the password
+	//Still pre-determined because it wouldn't work with user input
 	int length = 64;
 
 	//variables for counter
