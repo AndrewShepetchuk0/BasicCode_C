@@ -5,11 +5,10 @@
 #include <time.h>
 
 //main method
-int main(){
+int main(int argc, char *argv[]){
 
 	//length of the password
-	//Still pre-determined because it wouldn't work with user input
-	int length = 64;
+	int length = *argv[1];
 
 	//variables for counter
 	int i = 0;
