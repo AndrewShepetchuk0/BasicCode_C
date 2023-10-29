@@ -10,6 +10,7 @@ int main()
 	//User input for price
 	printf("Input the price of the item: \n");
 	scanf("%f", &price);
+	//Calculates and prints price of the item after HST
 	printf("The price of the item after HST is: ");
 	printf("%f\n", price * tax);
 
