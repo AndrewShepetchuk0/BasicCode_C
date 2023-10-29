@@ -27,6 +27,7 @@ int main()
                 case '*':
                         printf("%f\n", firstnum * secondnum);
                         break;
+                //Prints result of addition operation
                 case '+':
                         printf("%f\n", firstnum + secondnum);
                         break;
