@@ -16,6 +16,7 @@ int main()
         printf("Enter the second numebr: ");
         scanf("%f", &secondnum);
 
+        //Switch statement for operation
         switch(operation)
         {
                 case '-':
