@@ -4,6 +4,7 @@
 //Main
 int main()
 {
+        //Variables for first number, second number, and operation
         float firstnum, secondnum;
         char operation;
 
