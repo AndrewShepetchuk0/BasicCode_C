@@ -8,6 +8,7 @@ int main()
         float firstnum, secondnum;
         char operation;
 
+        //User input and variable allocation for first number, second number, and operation
         printf("Enter the first numebr: ");
         scanf("%f", &firstnum);
         printf("Enter operation: ");
