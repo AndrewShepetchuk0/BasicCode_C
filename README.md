@@ -2,3 +2,5 @@
 Basic programs written in c
 
 Small code snippets made quickly
+
+Now with comments
