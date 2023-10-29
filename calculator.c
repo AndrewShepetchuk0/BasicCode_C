@@ -35,6 +35,7 @@ int main()
                 case '/':
                         printf("%f\n", firstnum / secondnum);
                         break;
+                //Prints an error if the operation is not addition, subtraction, multiplication, or division
                 default:
                         printf("Not a valid operation\n");
                 }
