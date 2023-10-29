@@ -1,6 +1,7 @@
 #include <stdio.h>
 //includes
 
+//main
 int main()
 {
 	float price = 0.0;
