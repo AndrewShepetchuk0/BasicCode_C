@@ -4,6 +4,7 @@
 //main
 int main()
 {
+	//variables for price and tax
 	float price = 0.0;
 	float tax = 1.13;
 	printf("Input the price of the item: \n");
