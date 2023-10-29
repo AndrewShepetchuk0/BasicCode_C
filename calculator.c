@@ -19,6 +19,7 @@ int main()
         //Switch statement for operation
         switch(operation)
         {
+                //Prints result of subtraction operation
                 case '-':
                         printf("%f\n", firstnum - secondnum);
                         break;
