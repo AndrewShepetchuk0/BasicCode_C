@@ -20,7 +20,7 @@ int main(){
 			printf("%d\t", i);
 			printf("FizzBuzz\n");
 		}
-
+		//If number is not divisible by either 3 or 5, just prints number
 		if((i % 3 != 0) && (i % 5 != 0)){
 			printf("%d\n", i);
 		}
