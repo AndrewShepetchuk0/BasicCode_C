@@ -1,6 +1,7 @@
 #include <stdio.h>
 //Includes
 
+//Main
 int main(){
 	for(int i = 1; i <= 100; i++){
 		
