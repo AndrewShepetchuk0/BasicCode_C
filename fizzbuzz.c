@@ -5,7 +5,7 @@
 int main(){
 	//For loop
 	for(int i = 1; i <= 100; i++){
-		
+		//If the number is divisible by 3, prints Fizz and number
 		if((i % 3) == 0){
 			printf("%d\t", i);
 			printf("Fizz\n");
