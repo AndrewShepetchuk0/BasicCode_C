@@ -23,6 +23,7 @@ int main()
                 case '-':
                         printf("%f\n", firstnum - secondnum);
                         break;
+                //Prints result of multiplication operation
                 case '*':
                         printf("%f\n", firstnum * secondnum);
                         break;
